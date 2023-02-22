@@ -1,4 +1,4 @@
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Teddie+Knight;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+WorldLight;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
 
 <!-- Hero Section -->
 <p align="center"><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="700" />
