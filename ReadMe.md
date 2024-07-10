@@ -107,11 +107,9 @@
 
 🌱 I’m currently learning **PHP**, **MongoDB** & **Python**
 
-👯 I’m looking to _collaborate_ on **React** projects
+👯 I’m looking to _collaborate_ on **React/Next** projects
 
-🤔 I’m looking for help with **WordPress** and **React**
-
-💬 Ask me about **WordPress**, **React** and **Python**
+💬 Ask me about **WordPress**, **React/Next**, **Python** and **JS/TS**
 
 😄 Pronouns: **_He/His_**
 
