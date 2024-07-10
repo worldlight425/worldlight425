@@ -13,10 +13,6 @@
 
 # I'm a Full Stack Developer
 
-
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=WordPress/Shopify+Developer;MERN+Stack+Developer;Python+Developer)](https://git.io/typing-svg)
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-
 <!-- Skills as a table -->
 
 
